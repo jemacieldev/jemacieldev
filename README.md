@@ -7,12 +7,24 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 ## 🚀 Tecnologias que utilizo
 
-<div style="display:flex; gap:10px;">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
+<div style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center;">
+
+  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  </div>
+
+  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  </div>
+
+  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+  </div>
+
+  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+  </div>
 
 </div>
 
@@ -40,11 +52,20 @@ https://github.com/jemacieldev/brain-games
 
 ## 📊 Estatísticas do GitHub
 
-### GitHub Stats
-![Jéssica GitHub Stats](https://github-readme-stats-jessercode.vercel.app/api?username=jemacieldev&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-### Top Langs
-![Top Langs](https://github-readme-stats-jessercode.vercel.app/api/top-langs/?username=jemacieldev&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <div style="border-radius: 20px; overflow: hidden; background-color:#F2E5FF; padding:10px;">
+    <img align="center" src="https://github-readme-stats-jemacieldev.vercel.app/api?username=jemacieldev&show_icons=true&theme=radical" alt="Jéssica GitHub Stats" />
+  </div>
+
+  <div style="border-radius: 20px; overflow: hidden; background-color:#F2E5FF; padding:10px;">
+    <img align="center" src="https://github-readme-stats-jemacieldev.vercel.app/api/top-langs/?username=jemacieldev&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
+
+</div>
+
 
 
 ---
