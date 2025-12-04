@@ -7,10 +7,10 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 ## 🚀 Tecnologias que utilizo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-JS-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-JS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=figma&logoColor=white)
 
 
 ---
