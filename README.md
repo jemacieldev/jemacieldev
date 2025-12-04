@@ -37,17 +37,16 @@ https://github.com/jemacieldev/brain-games
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <div style="border-radius: 20px; overflow: hidden; background-color:#F2E5FF; padding:10px;">
-    <img align="center" src="https://github-readme-stats-jemacieldev.vercel.app/api?username=jemacieldev&show_icons=true&theme=radical" alt="Jéssica GitHub Stats" />
-  </div>
-
-  <div style="border-radius: 20px; overflow: hidden; background-color:#F2E5FF; padding:10px;">
-    <img align="center" src="https://github-readme-stats-jemacieldev.vercel.app/api/top-langs/?username=jemacieldev&layout=compact&theme=radical" alt="Top Langs" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-jemacieldev.vercel.app/api?username=jemacieldev&show_icons=true&theme=radical" alt="Jéssica GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-jemacieldev.vercel.app/api/top-langs/?username=jemacieldev&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
 
