@@ -50,7 +50,6 @@ https://github.com/jemacieldev/brain-games
 
 ---
 
-## 📊 Estatísticas do GitHub
 
 ## 📊 GitHub Stats
 
