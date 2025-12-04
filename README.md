@@ -12,7 +12,6 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=figma&logoColor=white)
 
-
 ---
 
 ## 🎮 Projeto Atual — BrainGames
