@@ -7,23 +7,22 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 ## 🚀 Tecnologias que utilizo
 
-<div style="display:flex; gap:15px; flex-wrap: wrap; justify-content: center; align-items:center;">
-  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px; width:60px; height:60px; display:flex; justify-content:center; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  </div>
-
-  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px; width:60px; height:60px; display:flex; justify-content:center; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  </div>
-
-  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px; width:60px; height:60px; display:flex; justify-content:center; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-  </div>
-
-  <div style="background-color:#E5E5F7; border-radius:15px; padding:10px; width:60px; height:60px; display:flex; justify-content:center; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" /><br>Figma
+    </td>
+  </tr>
+</table>
 
 
 
