@@ -13,8 +13,6 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 ![Figma](https://img.shields.io/badge/Figma-Design-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=figma&logoColor=white)
 
 
-
-
 ---
 
 ## 🎮 Projeto Atual — BrainGames
