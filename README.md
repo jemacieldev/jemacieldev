@@ -40,9 +40,12 @@ https://github.com/jemacieldev/brain-games
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jemacieldev&show_icons=true&theme=default)
+### GitHub Stats
+![Jéssica GitHub Stats](https://github-readme-stats.vercel.app/api?username=jemacieldev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemacieldev&layout=compact)
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemacieldev&layout=compact&theme=radical)
+
 
 ---
 
