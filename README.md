@@ -7,10 +7,22 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 ## 🚀 Tecnologias que utilizo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-JS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-ES6-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-JS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=react&logoColor=white" alt="React"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind-CSS-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-Design-7F3FBF?style=for-the-badge&labelColor=D9D9D9&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,22 +30,37 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 **BrainGames** é uma plataforma de jogos educacionais criada para apoiar instituições sociais no desenvolvimento cognitivo de crianças.
 
-🔗 **Acesse o projeto:**  
-https://brain-games-app-mu.vercel.app/
-
-🔗 **Repositório no GitHub:**  
-https://github.com/jemacieldev/brain-games
+<table>
+  <tr>
+    <td>🔗 Acesse o projeto:</td>
+    <td><a href="https://brain-games-app-mu.vercel.app/">BrainGames App</a></td>
+  </tr>
+  <tr>
+    <td>🔗 Repositório no GitHub:</td>
+    <td><a href="https://github.com/jemacieldev/brain-games">brain-games</a></td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Redes e Contatos
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jessicamaciels  
-- 🌐 **Projetos na Vercel:** https://vercel.com/jes-projects-707a1835  
-- 📧 **Email:** jessicamacields@gmail.com  
+<table>
+  <tr>
+    <td>💼 LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/jessicamaciels">jessicamaciels</a></td>
+  </tr>
+  <tr>
+    <td>🌐 Vercel Projects</td>
+    <td><a href="https://vercel.com/jes-projects-707a1835">Meu portfólio</a></td>
+  </tr>
+  <tr>
+    <td>📧 Email</td>
+    <td>jessicamacields@gmail.com</td>
+  </tr>
+</table>
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -48,9 +75,8 @@ https://github.com/jemacieldev/brain-games
   </tr>
 </table>
 
-
-
 ---
 
 ✨ Obrigada por visitar meu perfil!
+
 
