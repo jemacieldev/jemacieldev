@@ -7,22 +7,11 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
 
 ## 🚀 Tecnologias que utilizo
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br>React
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br>Tailwind
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" /><br>Figma
-    </td>
-  </tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-JS-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-#D8B4FE?style=for-the-badge&labelColor=#E5E5E5&logo=figma&logoColor=white)
+
 
 
 
