@@ -37,7 +37,7 @@ Atualmente estou criando o **BrainGames**, uma plataforma de jogos educacionais 
   </tr>
   <tr>
     <td>🔗 Repositório no GitHub:</td>
-    <td><a href="https://github.com/jemacieldev/brain-games">brain-games</a></td>
+    <td><a href="https://github.com/jemacieldev/BrainGamesApp">brain-games</a></td>
   </tr>
 </table>
 
