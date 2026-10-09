@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Jéssica!
+# Oi, eu sou a Jéssica!
 
 Sou **Analista de Educação Digital e Novos Produtos** e estudante de **Análise e Desenvolvimento de Sistemas** na Belas Artes.
 
