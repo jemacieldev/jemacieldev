@@ -36,6 +36,20 @@ Gosto de trabalhar onde **tecnologia, dados e processos** se encontram: entender
   </tr>
   <tr>
     <td width="42%">
+      <a href="https://github.com/jemacieldev/quiz-skills-do-futuro"><img src="https://raw.githubusercontent.com/jemacieldev/quiz-skills-do-futuro/main/preview.png" alt="Tela inicial dos Quizzes Tech + Human"/></a>
+    </td>
+    <td>
+      <h3>🧭 Quizzes Tech + Human</h3>
+      Três quizzes para o estudante descobrir suas Skills do Futuro, criados para engajar a comunidade de um programa de certificações. Cada um tem uma mecânica de pontuação e termina indicando a trilha de cursos mais alinhada ao perfil.
+      <br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <br><br>
+      <a href="https://github.com/jemacieldev/quiz-skills-do-futuro"><b>Repositório</b></a> ·
+      <a href="https://jemacieldev.github.io/quiz-skills-do-futuro/"><b>Ver funcionando</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%">
       <a href="https://github.com/jemacieldev/LP-CREATORACADEMY"><img src="https://raw.githubusercontent.com/jemacieldev/LP-CREATORACADEMY/main/assets/preview.png" alt="Tela da landing page Creator Academy"/></a>
     </td>
     <td>
